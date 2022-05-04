@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lampada
+comment1.params=acessa
+comment1.target=Lampada(boolean)
+comment2.params=
+comment2.target=void\ printEstado()
+comment3.params=
+comment3.target=void\ interruptor()
+numComments=4

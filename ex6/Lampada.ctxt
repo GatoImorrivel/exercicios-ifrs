@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Lampada
+comment1.params=acessa\ watts
+comment1.target=Lampada(boolean,\ double)
+comment2.params=
+comment2.target=Lampada()
+comment3.params=
+comment3.target=void\ printEstado()
+comment4.params=
+comment4.target=void\ interruptor()
+comment5.params=
+comment5.target=double\ getWatts()
+comment6.params=watts
+comment6.target=void\ setWatts(double)
+numComments=7
